@@ -76,7 +76,7 @@ else:
 
 # Edit these variables as you want
 SCREENSHOTS = 5
-TIMING = 5
+TIMING = 3
 
 for i in range(SCREENSHOTS):
     sleep(TIMING)
